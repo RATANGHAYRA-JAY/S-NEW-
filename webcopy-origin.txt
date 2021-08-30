@@ -1,0 +1,328 @@
+Uri: https://megaone.acrothemes.com/index-gradient-agency.html
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\index-gradient-agency.html
+Content Type: text/html
+
+Uri: https://megaone.acrothemes.com/vendor/css/bundle.min.css
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\css\bundle.min.css
+Content Type: text/css
+
+Uri: https://megaone.acrothemes.com/vendor/css/LineIcons.min.css
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\css\LineIcons.min.css
+Content Type: text/css
+
+Uri: https://megaone.acrothemes.com/vendor/css/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\css\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://megaone.acrothemes.com/vendor/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://megaone.acrothemes.com/vendor/css/wow.css
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\css\wow.css
+Content Type: text/css
+
+Uri: https://megaone.acrothemes.com/vendor/css/cubeportfolio.min.css
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\css\cubeportfolio.min.css
+Content Type: text/css
+
+Uri: https://megaone.acrothemes.com/gradient-agency/css/line-awesome.min.css
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\css\line-awesome.min.css
+Content Type: text/css
+
+Uri: https://megaone.acrothemes.com/gradient-agency/css/style.css
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\css\style.css
+Content Type: text/css
+
+Uri: https://megaone.acrothemes.com/gradient-agency/css/custom.css
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\css\custom.css
+Content Type: text/css
+
+Uri: https://megaone.acrothemes.com/gradient-agency/standalone.html
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\standalone.html
+Content Type: text/html
+
+Uri: https://megaone.acrothemes.com/gradient-agency/images/portfolio-1.jpg
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\images\portfolio-1.jpg
+Content Type: image/jpeg
+
+Uri: https://megaone.acrothemes.com/gradient-agency/images/portfolio-2.jpg
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\images\portfolio-2.jpg
+Content Type: image/jpeg
+
+Uri: https://megaone.acrothemes.com/gradient-agency/images/portfolio-4.jpg
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\images\portfolio-4.jpg
+Content Type: image/jpeg
+
+Uri: https://megaone.acrothemes.com/gradient-agency/images/portfolio-3.jpg
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\images\portfolio-3.jpg
+Content Type: image/jpeg
+
+Uri: https://megaone.acrothemes.com/gradient-agency/images/portfolio-5.jpg
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\images\portfolio-5.jpg
+Content Type: image/jpeg
+
+Uri: https://megaone.acrothemes.com/gradient-agency/images/portfolio-6.jpg
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\images\portfolio-6.jpg
+Content Type: image/jpeg
+
+Uri: https://megaone.acrothemes.com/gradient-agency/images/portfolio-7.jpg
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\images\portfolio-7.jpg
+Content Type: image/jpeg
+
+Uri: https://megaone.acrothemes.com/gradient-agency/images/portfolio-8.jpg
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\images\portfolio-8.jpg
+Content Type: image/jpeg
+
+Uri: https://megaone.acrothemes.com/gradient-agency/images/logo.png
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\images\logo.png
+Content Type: image/png
+
+Uri: https://megaone.acrothemes.com/gradient-agency/images/banner-img.png
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\images\banner-img.png
+Content Type: image/png
+
+Uri: https://megaone.acrothemes.com/gradient-agency/images/about-img.png
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\images\about-img.png
+Content Type: image/png
+
+Uri: https://megaone.acrothemes.com/gradient-agency/images/review-1.jpg
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\images\review-1.jpg
+Content Type: image/jpeg
+
+Uri: https://megaone.acrothemes.com/gradient-agency/images/review-2.png
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\images\review-2.png
+Content Type: image/png
+
+Uri: https://megaone.acrothemes.com/gradient-agency/images/review-3.jpg
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\images\review-3.jpg
+Content Type: image/jpeg
+
+Uri: https://megaone.acrothemes.com/vendor/js/bundle.min.js
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\js\bundle.min.js
+Content Type: application/javascript
+
+Uri: https://megaone.acrothemes.com/vendor/js/morphext.min.js
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\js\morphext.min.js
+Content Type: application/javascript
+
+Uri: https://megaone.acrothemes.com/vendor/js/jquery.appear.js
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\js\jquery.appear.js
+Content Type: application/javascript
+
+Uri: https://megaone.acrothemes.com/vendor/js/jquery.fancybox.min.js
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\js\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://megaone.acrothemes.com/vendor/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://megaone.acrothemes.com/vendor/js/wow.min.js
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://megaone.acrothemes.com/vendor/js/jquery.cubeportfolio.min.js
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\js\jquery.cubeportfolio.min.js
+Content Type: application/javascript
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyB4fusEY9kSwNHgtK8KOgyoTsyP5Tb2NXo
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\maps\api\js
+Content Type: text/javascript
+
+Uri: https://megaone.acrothemes.com/gradient-agency/js/map.js
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\js\map.js
+Content Type: application/javascript
+
+Uri: https://megaone.acrothemes.com/vendor/js/contact_us.js
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\js\contact_us.js
+Content Type: application/javascript
+
+Uri: https://megaone.acrothemes.com/gradient-agency/js/script.js
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\js\script.js
+Content Type: application/javascript
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-brands-400.woff2
+Content Type: 
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-regular-400.woff2
+Content Type: 
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-solid-900.woff2
+Content Type: 
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/LineIcons.eot?y2l643
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\LineIcons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/LineIcons.ttf?y2l643
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\LineIcons.ttf
+Content Type: application/octet-stream
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/LineIcons.woff?y2l643
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\LineIcons.woff
+Content Type: font/woff
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/LineIcons.svg?y2l643
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\LineIcons.svg
+Content Type: image/svg+xml
+
+Uri: https://megaone.acrothemes.com/vendor/img/cbp-sprite.png
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\img\cbp-sprite.png
+Content Type: image/png
+
+Uri: https://megaone.acrothemes.com/gradient-agency/fonts/la-brands-400.eot
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\fonts\la-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megaone.acrothemes.com/gradient-agency/fonts/la-brands-400.eot?
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\fonts\la-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megaone.acrothemes.com/gradient-agency/fonts/la-brands-400.woff2
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\fonts\la-brands-400.woff2
+Content Type: 
+
+Uri: https://megaone.acrothemes.com/gradient-agency/fonts/la-brands-400.woff
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\fonts\la-brands-400.woff
+Content Type: font/woff
+
+Uri: https://megaone.acrothemes.com/gradient-agency/fonts/la-brands-400.ttf
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\fonts\la-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://megaone.acrothemes.com/gradient-agency/fonts/la-brands-400.svg
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\fonts\la-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://megaone.acrothemes.com/gradient-agency/fonts/la-regular-400.eot
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\fonts\la-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megaone.acrothemes.com/gradient-agency/fonts/la-regular-400.eot?
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\fonts\la-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megaone.acrothemes.com/gradient-agency/fonts/la-regular-400.woff2
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\fonts\la-regular-400.woff2
+Content Type: 
+
+Uri: https://megaone.acrothemes.com/gradient-agency/fonts/la-regular-400.woff
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\fonts\la-regular-400.woff
+Content Type: font/woff
+
+Uri: https://megaone.acrothemes.com/gradient-agency/fonts/la-regular-400.ttf
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\fonts\la-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://megaone.acrothemes.com/gradient-agency/fonts/la-regular-400.svg
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\fonts\la-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://megaone.acrothemes.com/gradient-agency/fonts/la-solid-900.eot
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\fonts\la-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megaone.acrothemes.com/gradient-agency/fonts/la-solid-900.eot?
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\fonts\la-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megaone.acrothemes.com/gradient-agency/fonts/la-solid-900.woff2
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\fonts\la-solid-900.woff2
+Content Type: 
+
+Uri: https://megaone.acrothemes.com/gradient-agency/fonts/la-solid-900.woff
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\fonts\la-solid-900.woff
+Content Type: font/woff
+
+Uri: https://megaone.acrothemes.com/gradient-agency/fonts/la-solid-900.ttf
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\fonts\la-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://megaone.acrothemes.com/gradient-agency/fonts/la-solid-900.svg
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\fonts\la-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\css2.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\css2-1.css
+Content Type: text/css
+
+Uri: https://megaone.acrothemes.com/gradient-agency/images/standalone-1.jpg
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\images\standalone-1.jpg
+Content Type: image/jpeg
+
+Uri: https://megaone.acrothemes.com/gradient-agency/images/standalone-2.jpg
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\images\standalone-2.jpg
+Content Type: image/jpeg
+
+Uri: https://megaone.acrothemes.com/gradient-agency/images/standalone-3.jpg
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\gradient-agency\images\standalone-3.jpg
+Content Type: image/jpeg
+
